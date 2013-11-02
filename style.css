@@ -11,12 +11,33 @@ h1{
 .pages{
   margin: 20px 10%;
   padding: 20px 20px;
-  background-color: #fcfafa;
+  background-color: #fafafc;
 }
 .pages p{
-  background-color: #fff;
-  padding: 14px 25px;
+  /* background-color: #fff; */
+  padding: 14px 40px;
   margin: 25px 40px;
   border-left: 1px solid #000;
   border-right: 1px solid #000;
+  line-height: 16pt;
+}
+.pages p .first {
+  font-size: 19pt;
+}
+.pages blockquote {
+  padding: 14px 40px;
+  margin: 25px 40px;
+  font-style: italic;
+}
+@media (max-width: 650px) {
+  .pages {
+    margin: 0;
+    padding: 0;
+  }
+  .pages p {
+    border: none;
+    padding: 14px 10px;
+    font-size: 15pt;
+    line-height: 19pt;
+  }
 }
