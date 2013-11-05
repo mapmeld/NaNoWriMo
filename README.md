@@ -12,8 +12,11 @@ templating so that the story can be more browseable.
 I wrote a short story, about 800 words long, while I was wrapping up Code for America. I
 left it alone for a while, but there were a lot of gaps and backstory which could be filled
 in. I wrote a longer outline during late October, and decided that if I wrote 1,500 words
-per line of the outline, I would be in the clear. I'm averaging about half of that?
+per line of the outline, I would be in the clear. I'm averaging about half of that...
+essentially I should complete one section of the outline per day, but instead I finish two.
 
+The story is about a paranormal researcher trying to solve a case by being clever and using
+a somewhat flawed concept of the scientific method.
 
 # How is NaNoWriMo?
 
@@ -24,8 +27,8 @@ Fortunately there are a few more phases in my story outline, perhaps equal in le
 finishing the month is going to be a challenge.
 
 I usually write code, nonfiction, or short stories in the third person with no dialogue,
-so writing something longer is draining. Also I just started a new job on the 21st and
-moved into an apartment at the beginning of the month. I can't skip any days, because then
+so writing something longer and with all sorts of conversations is draining. Also I just
+started a new job and moved into an apartment. I can't skip any days, because then
 I need to write extra on the other days.
 
 It feels draining, but here I am writing more, into GitHub. 
