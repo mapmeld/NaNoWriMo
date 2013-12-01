@@ -12,8 +12,8 @@ templating so that the story can be more browseable.
 I wrote a short story, about 800 words long, while I was wrapping up Code for America. I
 left it alone for a while, but there were a lot of gaps and backstory which could be filled
 in. I wrote a longer outline during late October, and decided that if I wrote 1,500 words
-per line of the outline, I would be in the clear. I'm averaging about half of that...
-essentially I should complete one section of the outline per day, but instead I finish two.
+per line of the outline, I would be in the clear. I was averaging about half of that...
+essentially I should complete one section of the outline per day, but instead I would finish two.
 
 The story is about a paranormal researcher trying to solve a case by being clever and using
 a somewhat flawed concept of the scientific method.
@@ -31,7 +31,13 @@ so writing something longer and with all sorts of conversations is draining. Als
 started a new job and moved into an apartment. I can't skip any days, because then
 I need to write extra on the other days.
 
-It feels draining, but here I am writing more, into GitHub. 
+It feels draining, but weirdly I want to write more at the end. But about different topics.
+
+# Short Stories
+
+Got 13,400 words in.
+
+I'll try writing some short stories like <a href="http://mapmeld.github.io/NaNoWriMo/pong.html">Pong</a> (620 words).
 
 # More NaNoWriMo on GitHub
 
