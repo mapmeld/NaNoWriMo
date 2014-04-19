@@ -39,6 +39,8 @@ Got 13,400 words in.
 
 I'll try writing some short stories like <a href="http://mapmeld.github.io/NaNoWriMo/pong.html">Pong</a> (620 words).
 
+<a href="http://mapmeld.github.io/NaNoWriMo/rollback.html">Rollback</a> is a tech-heavy story-in-progress about a team of students developing a new cryptocurrency.
+
 # More NaNoWriMo on GitHub
 
 Search Twitter for 'github nanowrimo' and you see some pretty cool projects. The two which
