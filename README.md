@@ -7,7 +7,11 @@ Participants write a 50,000 word novel by the end of the month - about 1,667 wor
 This repo will host anything which I write on GitHub Pages. I will add some
 templating so that the story can be more browseable.
 
+July is <a href="https://campnanowrimo.org/">Camp NaNoWriMo</a>.
+
 # Story
+
+## November 2013
 
 I wrote a short story, about 800 words long, while I was wrapping up Code for America. I
 left it alone for a while, but there were a lot of gaps and backstory which could be filled
@@ -18,7 +22,17 @@ essentially I should complete one section of the outline per day, but instead I 
 The story is about a paranormal researcher trying to solve a case by being clever and using
 a somewhat flawed concept of the scientific method.
 
+## July 2014
+
+Two story ideas:
+
+<a href="http://mapmeld.github.io/NaNoWriMo/rollback.html">Rollback</a> is a tech-heavy story-in-progress about a team of students developing a new cryptocurrency.
+
+<a href="http://mapmeld.github.io/NaNoWriMo/bubble.html">Bubble</a> is a story where the CDC responds to a pandemic in the mountains of Nepal.
+
 # How is NaNoWriMo?
+
+## November 2013
 
 There's no time to reflect on what I'm writing, so parts of it seem really wordy or drawn
 out. Remember, I am fleshing out an 800 word fragment of a story. At 6,700 words I closed
@@ -33,13 +47,17 @@ I need to write extra on the other days.
 
 It feels draining, but weirdly I want to write more at the end. But about different topics.
 
+### Conclusion
+Got 13,400 words in before I was concluding the story.
+
+Wrote a short story afterward but still much less than 50,000 words.
+
+## July 2014
+
+
 # Short Stories
 
-Got 13,400 words in.
-
-I'll try writing some short stories like <a href="http://mapmeld.github.io/NaNoWriMo/pong.html">Pong</a> (620 words).
-
-<a href="http://mapmeld.github.io/NaNoWriMo/rollback.html">Rollback</a> is a tech-heavy story-in-progress about a team of students developing a new cryptocurrency.
+Short stories like <a href="http://mapmeld.github.io/NaNoWriMo/pong.html">Pong</a> (620 words).
 
 # More NaNoWriMo on GitHub
 
